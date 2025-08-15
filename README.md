@@ -232,14 +232,45 @@ soft_skills: ["Problem Solving", "Teamwork", "Communication", "Time Management",
 
 ---
 
-## 🎮 Pacman Contribution Game
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mohsin-salman/mohsin-salman/output/pacman-contribution-graph-dark.svg" alt="Pacman Game" />
-</p>
+## 🏅 Certifications & Achievements
+
+<a href = "https://simpli-web.app.link/e/zAZaL1dSzUb"> <img src="https://img.shields.io/badge/Google_Cloud-Introduction_to_Generative_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> </a>
+<a href = "https://www.coursera.org/account/accomplishments/verify/QOFDG5JBGH6J"> <img src="https://img.shields.io/badge/Google_Cloud-A_Tour_of_Firebase-4285F4?style=for-the-badge&logo=firebase&logoColor=white" /> </a> 
+<img src="https://img.shields.io/badge/Google-Project_Management-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+
+</div>
+
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=60&section=footer"/>
+
+## 🎮 | 🐍 GitHub Games
+
+<table>
+<tr>
+<td align="center" width="50%">
+  
+<b>🐍 Contribution Snake Game</b><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Taha-Shahid916/Taha-Shahid916/output/snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Taha-Shahid916/Taha-Shahid916/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Taha-Shahid916/Taha-Shahid916/output/snake.svg">
+</picture>
+
+</td>
+<td align="center" width="50%">
+  
+  <b>🎮 Pacman Contribution Game</b><br>
+  <img src="https://github.com/Taha-Shahid916/Taha-Shahid916/blob/output/pacman-contribution-graph-dark.svg" alt="Pacman Game" />
+
+</td>
+</tr>
+</table>
+
+*<sub>Both games animate your contributions in a fun, coder-nerd style! No overlap or override issues – enjoy the pixel show!</sub>*
+
 </div>
 
 ---
