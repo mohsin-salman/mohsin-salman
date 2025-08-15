@@ -6,8 +6,8 @@
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=mohsin-salman&label=Profile%20Views&color=brightgreen&style=for-the-badge)
-  ![Followers](https://img.shields.io/github/followers/mohsin-salman?label=Followers&style=for-the-badge&color=blue)
+  ![Profile Views](https://komarev.com/ghpvc/?username=mohsin-salman&label=Profile%20Views&color=blue&style=for-the-badge)
+  ![Followers](https://img.shields.io/github/followers/mohsin-salman?label=Followers&style=for-the-badge&color=007EC6&logo=github&logoColor=black)
   ![Coding Since](https://img.shields.io/badge/Coding%20Since-2021-blue?style=for-the-badge&logo=github)
   
 </div>
