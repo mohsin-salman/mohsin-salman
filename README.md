@@ -129,7 +129,7 @@ soft_skills: ["Problem Solving", "Teamwork", "Communication", "Time Management",
 📊 Dynamic Filtering<br>
 🎨 PakWheels-inspired Design<br><br>
 <a href="https://autostop-pakwheels.netlify.app/">🔗 Live Demo</a>&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/mohsin-salman/Pakwheels-CarListings-Parts">🔗 View Project</a><br><br>
+<a href="https://github.com/mohsin-salman/Auto-Stop-Car-Parts">🔗 View Project</a><br><br>
 </td>
 </tr>
 
