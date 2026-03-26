@@ -1,13 +1,10 @@
 <div align="center">
 
-<img src="https://via.placeholder.com/1500x500/0b0b0f/8A2BE2?text=MOHSIN+SALMAN" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=MOHSIN+SALMAN;Creative+Developer;Design+%2B+Code+%2B+Creativity" />
 
-# <span style="color:#8A2BE2;">MOHSIN SALMAN</span>
+---
 
-### <span style="color:#c084fc;">Creative Designer • Full Stack Developer • Video Editor</span>
-
-💜 <i>Design in mind. Code in soul.</i>  
-🚀 <i>Crafting digital experiences that feel premium.</i>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0f,100:8A2BE2&height=200&section=header&text=Welcome%20to%20My%20World&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 </div>
 
@@ -15,53 +12,47 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=mohsin-salman&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/mohsin-salman?style=for-the-badge&color=8A2BE2&logo=github)
+<img src="https://komarev.com/ghpvc/?username=mohsin-salman&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/mohsin-salman?style=for-the-badge&color=8A2BE2&logo=github" />
 
 </div>
 
 ---
 
-## 🧬 <span style="color:#8A2BE2;">About Me</span>
+## 🧬 About Me
 
 ```yaml
 name: Mohsin Salman
-based_in: Karachi, Pakistan
-education: BS Computer Science
+location: Karachi, Pakistan
 
-identity:
-  - Creative Developer
-  - Design-First Thinker
-  - Visual Storyteller
+role:
+  - Creative Designer
+  - Full Stack Developer
+  - Video Editor
 
-core_focus:
-  - UI/UX + Development Fusion
+mindset: "Design first. Code second."
 ```
 
-💡 I don’t just build apps — I craft **experiences**.  
-🎯 Strong design sense backed by clean, scalable code.
+<div align="center">
+
+💜 Turning ideas into **premium digital experiences**  
+🚀 Blending **creativity + logic + aesthetics**
+
+</div>
 
 ---
 
-## ⚡ <span style="color:#8A2BE2;">My Edge</span>
+## ⚡ My Vibe
 
-- 🎨 Design-first workflow (Figma → Code)
-- 🧠 Creative + logical thinking balance
-- ⚡ Minimal, modern & high-end UI
-- 🔥 Obsession with details & aesthetics
+<div align="center">
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Design-First+Mindset;Modern+Minimal+UI;Creative+%2B+Logical+Balance;Always+Leveling+Up" />
 
-## 🎯 <span style="color:#8A2BE2;">Current Grind</span>
-
-- 🚀 Building sleek React apps  
-- 🎨 Leveling up UI/UX game  
-- 💼 Crafting portfolio-worthy projects  
-- ⚡ Becoming a top-tier creative dev  
+</div>
 
 ---
 
-## 🛠 <span style="color:#8A2BE2;">Tech Arsenal</span>
+## 🛠 Tech Stack
 
 <div align="center">
 
@@ -71,29 +62,33 @@ core_focus:
 
 ---
 
-## 🚀 <span style="color:#8A2BE2;">Featured Projects</span>
-
-### 🎬 Netflix Clone
-> Smooth UI • Auth System • Modern UX
-
-### 🚗 AutoStop Platform
-> Car marketplace • Filters • Interactive design
-
----
-
-## 📊 <span style="color:#8A2BE2;">GitHub Analytics</span>
+## 🚀 Projects
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohsin-salman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0b0f&title_color=8A2BE2&icon_color=8A2BE2" width="400" />
+✨ **Netflix Clone**  
+> Smooth UI • Auth • Modern Experience  
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohsin-salman&theme=tokyonight&hide_border=true&background=0b0b0f&ring=8A2BE2&fire=8A2BE2" width="400" />
+✨ **AutoStop Platform**  
+> Car Marketplace • Filters • Clean UI  
 
 </div>
 
 ---
 
-## 🌐 <span style="color:#8A2BE2;">Connect</span>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mohsin-salman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0b0f&title_color=8A2BE2&icon_color=8A2BE2" width="400"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohsin-salman&theme=tokyonight&hide_border=true&background=0b0b0f&ring=8A2BE2&fire=8A2BE2" width="400"/>
+
+</div>
+
+---
+
+## 🌐 Connect
 
 <div align="center">
 
@@ -119,12 +114,10 @@ core_focus:
 
 <div align="center">
 
-## 💎 <span style="color:#8A2BE2;">Philosophy</span>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:0b0b0f&height=120&section=footer"/>
 
-### ✨ *"Design isn’t decoration — it’s emotion."*
+### 💎 *"Design isn’t just seen — it’s felt."*
 
----
-
-🔥 <b>Let’s build something unforgettable.</b>
+🔥 **Let’s build something legendary**
 
 </div>
